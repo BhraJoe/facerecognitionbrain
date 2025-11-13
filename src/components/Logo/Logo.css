@@ -1,0 +1,28 @@
+.logo-wrapper {
+  width: 200px;
+ 
+}
+
+.Logo-Tilt {
+  background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE);
+  border-radius: 20px;
+
+
+}
+
+.Logo-Inner {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-image {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
+
+
+
